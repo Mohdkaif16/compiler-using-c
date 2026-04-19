@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776605103 source:c:\users\pubgs\onedrive\desktop\compiler1.2\cmpilermodel2\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

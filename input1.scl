@@ -1,0 +1,4 @@
+a=2mul3add4
+b=2mul3adda
+print(b)
+print(a)
